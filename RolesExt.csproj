@@ -16,7 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <!-- DLLs de Among Us (desde la carpeta lib) -->
     <Reference Include="Assembly-CSharp">
       <HintPath>lib\Assembly-CSharp.dll</HintPath>
       <Private>false</Private>
