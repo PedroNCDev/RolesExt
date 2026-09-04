@@ -7,7 +7,7 @@ RolesExt is a 24-tab Among Us mod, with unique options for each tab. It is close
 
 | Mod Version | Among Us - Version | Link |
 |-------------|--------------------|------|
-| v1.0.0 | 17.4 ( 2026.06.05 ) | [Download](https://github.com/PedroNCDev/RolesExt/releases/tag/v1.0.0) |
+| v1.0.0 | 18.0 ( 2026.08.18 ) | [Download](https://github.com/PedroNCDev/RolesExt/releases/tag/v1.0.0) |
 
 # ⚠️ Disclaimer
 
